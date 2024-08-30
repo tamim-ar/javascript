@@ -15,10 +15,8 @@ console.log("Quotient:", quotient);
 var realmadrid = true;
 var barcelona = false;
 
-console.log(realmadrid);    
+console.log(realmadrid);
 console.log(barcelona);
-
-// true false reserved word for javascript
 
 console.log(typeof realmadrid);
 console.log(typeof barcelona);
