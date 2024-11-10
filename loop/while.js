@@ -1,6 +1,6 @@
-let count = 0;
+let index = 0;
 
-while (count < 5) {
-    console.log("Count: " + count);
-    count++;
+while (index < 5) {
+    console.log("index: " + index);
+    index++;
 }
