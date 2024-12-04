@@ -1,7 +1,6 @@
 let value = input.split(' ').map(Number);
-    
+  
 let value1 = [];
-
 for (let i = 0; i < value.length; i++) {
     let value2 = false;
     
@@ -11,12 +10,11 @@ for (let i = 0; i < value.length; i++) {
             break;
         }
     }
-    
+
     if (!value2) {
         value1.push(value[i]);
     }
 }
-
 let len = value1.length;
 for (let i = 0; i < len - 1; i++) {
     for (let j = 0; j < len - 1 - i; j++) {
@@ -27,5 +25,4 @@ for (let i = 0; i < len - 1; i++) {
         }
     }
 }
-
 console.log(value1.join(' '));
