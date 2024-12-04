@@ -25,4 +25,5 @@ for (let i = 0; i < len - 1; i++) {
         }
     }
 }
+
 console.log(value1.join(' '));
