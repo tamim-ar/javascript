@@ -2,6 +2,7 @@ var num = 1;
 var num2 = 2;
 
 console.log(num + num2);
+
 var sum = num + num2;
 var difference = num - num2;
 var product = num * num2;
