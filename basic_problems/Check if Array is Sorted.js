@@ -5,5 +5,5 @@ function isSorted(arr) {
     return true;
 }
 
-console.log(isSorted([1, 2, 3, 4, 5])); // true
-console.log(isSorted([1, 3, 2, 4, 5])); // false
+console.log(isSorted([1, 2, 3, 4, 5])); 
+console.log(isSorted([1, 3, 2, 4, 5])); 
