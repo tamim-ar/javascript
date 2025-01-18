@@ -6,5 +6,5 @@ function isPrime(n) {
     return true;
 }
 
-console.log(isPrime(17)); // true
-console.log(isPrime(18)); // false
+console.log(isPrime(17)); 
+console.log(isPrime(18)); 
