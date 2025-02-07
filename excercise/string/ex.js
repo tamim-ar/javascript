@@ -1,3 +1,3 @@
-const name = "Tamim"
+const name = "Tamim";
 
-console.log(name.toLowerCase())
+console.log(name.toLowerCase());
