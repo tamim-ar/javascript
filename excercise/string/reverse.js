@@ -4,9 +4,11 @@ const name = "Tamim Ahasan Rijon";
 //     console.log(letter);
 // }
 
-let reverse = '';
-for (const letter of name){
-    reverse = letter + reverse;
-}
+// let reverse = '';
+// for (const letter of name){
+//     reverse = letter + reverse;
+// }
 
-console.log(reverse);
+// console.log(reverse);
+
+console.log(name.split('').reverse().join(''));
