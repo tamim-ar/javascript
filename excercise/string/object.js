@@ -18,3 +18,6 @@ console.log(a);
 a = 3;
 
 console.log(a)
+
+console.log(Object.keys(man))
+console.log(Object.values(man))
