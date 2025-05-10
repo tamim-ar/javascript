@@ -3,5 +3,5 @@ function isAnagram(str1, str2) {
     return format(str1) === format(str2);
 }
 
-console.log(isAnagram("listen", "silent")); // true
-console.log(isAnagram("hello", "world"));   // false
+console.log(isAnagram("listen", "silent")); 
+console.log(isAnagram("hello", "world"));  
