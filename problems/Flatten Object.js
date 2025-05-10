@@ -12,4 +12,3 @@ function flattenObject(obj, prefix = '') {
 
 const nestedObject = { a: { b: { c: 1 } }, d: 2 };
 console.log(flattenObject(nestedObject));
-// { "a.b.c": 1, "d": 2 }
