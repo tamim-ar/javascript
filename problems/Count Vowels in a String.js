@@ -3,4 +3,4 @@ function countVowels(str) {
     return str.toLowerCase().split('').filter(char => vowels.includes(char)).length;
 }
 
-console.log(countVowels("Hello World")); // 3
+console.log(countVowels("Hello World")); 
