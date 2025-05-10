@@ -6,4 +6,4 @@ function sumOfDigits(num) {
         .reduce((sum, digit) => sum + digit, 0);
 }
 
-console.log(sumOfDigits(12345)); // 15
+console.log(sumOfDigits(12345)); 
