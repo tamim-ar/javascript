@@ -1,2 +1,2 @@
 const str = prompt("Enter a string:");
-alert(str.split("").reverse().join(""));
+alert(str.split("").reverse().join(""))
