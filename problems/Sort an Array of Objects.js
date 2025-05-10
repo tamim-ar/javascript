@@ -8,4 +8,4 @@ const users = [
     { name: "Charlie", age: 30 }
 ];
 
-console.log(sortByKey(users, "age")); // Sorted by age
+console.log(sortByKey(users, "age")); 
