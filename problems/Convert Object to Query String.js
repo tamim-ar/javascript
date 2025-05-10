@@ -5,4 +5,3 @@ function objectToQueryString(obj) {
 }
 
 console.log(objectToQueryString({ name: "Alice", age: 25, city: "New York" }));
-// "name=Alice&age=25&city=New%20York"
