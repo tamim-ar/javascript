@@ -14,5 +14,3 @@ const items = [
 ];
 
 console.log(groupBy(items, "type"));
-// { fruit: [{ type: 'fruit', name: 'apple' }, { type: 'fruit', name: 'banana' }],
-//   vegetable: [{ type: 'vegetable', name: 'carrot' }] }
