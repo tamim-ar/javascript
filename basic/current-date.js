@@ -1,0 +1,1 @@
+document.body.innerText = "Today is: " + new Date().toDateString();
