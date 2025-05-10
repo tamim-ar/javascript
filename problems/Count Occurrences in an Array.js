@@ -6,4 +6,3 @@ function countOccurrences(arr) {
 }
 
 console.log(countOccurrences(["apple", "banana", "apple", "orange", "banana", "apple"]));
-// { apple: 3, banana: 2, orange: 1 }
