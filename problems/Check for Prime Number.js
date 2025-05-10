@@ -7,4 +7,4 @@ function isPrime(n) {
 }
 
 console.log(isPrime(17)); 
-console.log(isPrime(18)); 
+console.log(isPrime(18));
