@@ -15,5 +15,5 @@ function romanToInt(roman) {
     return total;
 }
 
-console.log(romanToInt("XIV")); // 14
-console.log(romanToInt("MCMXCIV")); // 1994
+console.log(romanToInt("XIV")); 
+console.log(romanToInt("MCMXCIV")); 
