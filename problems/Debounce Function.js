@@ -9,4 +9,4 @@ function debounce(func, delay) {
 const log = debounce(() => console.log("Debounced!"), 1000);
 log();
 log();
-log(); // Only this one runs after 1 second
+log(); 
