@@ -3,5 +3,5 @@ function isPalindrome(str) {
     return str === reversed;
 }
 
-console.log(isPalindrome("racecar")); // true
-console.log(isPalindrome("hello"));   // false
+console.log(isPalindrome("racecar")); 
+console.log(isPalindrome("hello"));   
